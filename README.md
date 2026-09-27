@@ -1,0 +1,2 @@
+# code-generator
+安全なランダムダウンロードコードを生成し、TXT形式で保存するPythonスクリプト
